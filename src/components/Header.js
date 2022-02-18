@@ -42,3 +42,10 @@ const Nav = styled.nav`
   height: 70px;
   background: #090b13;
 `;
+
+const UserImg = styled.img`
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  cursor: pointer;
+`;
